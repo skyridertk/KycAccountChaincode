@@ -1,7 +1,7 @@
 {
-    "name": "fabcar",
+    "name": "kyc_account",
     "version": "1.0.0",
-    "description": "FabCar contract implemented in JavaScript",
+    "description": "KYC Account",
     "main": "index.js",
     "engines": {
         "node": ">=12",
